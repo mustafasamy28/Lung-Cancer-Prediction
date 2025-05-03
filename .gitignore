@@ -1,0 +1,16 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Mac OS files
+.DS_Store
+
+# Data files
+*.csv
+*.xlsx
+
+# Environment files
+.env
